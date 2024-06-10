@@ -6,3 +6,7 @@ Estoy aprendiendo:
 - Github
 - Html
 - CSS
+
+## Autor
+
+Gina González
