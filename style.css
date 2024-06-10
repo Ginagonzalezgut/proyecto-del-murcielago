@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: darkkhaki;
+  background-color: white;
 }
 
 header {
@@ -60,13 +60,13 @@ footer {
 
 @media (min-width: 800px) {
   footer {
-    background-color: red;
+    background-color: floralwhite;
   }
 }
 
 @media (min-width: 1024px) {
   footer {
-    background-color: green;
+    background-color: rgb(185, 216, 185);
   }
 }
 
