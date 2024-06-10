@@ -1,3 +1,8 @@
+:root {
+  --main-color: red;
+  --second-color: green;
+}
+
 body {
   margin: 0;
   background-color: darkkhaki;
@@ -36,6 +41,7 @@ h1 {
   text-align: start;
   font-size: 40px;
 }
+
 .wrapper {
   width: 100%;
   max-width: 600px;
@@ -60,13 +66,17 @@ footer {
 
 @media (min-width: 800px) {
   footer {
-    background-color: red;
+    background-color: var(--main-color);
+  }
+
+  .footer {
+    flex-direction: column;
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1200px) {
   footer {
-    background-color: green;
+    background-color: var(--second-color);
   }
 }
 
