@@ -1,12 +1,13 @@
-# proyecto-del-murcielago
+# Proyecto del murciélago
 
 Este repositorio es para practicar el flujo de Github
+
 Estoy aprendiendo:
 
-- Github
-- Html
+- GitHub
+- HTML
 - CSS
 
 ## Autor
 
-Gina González
+Gina González [<gina@example.com>](mailto:gina@example.com)
