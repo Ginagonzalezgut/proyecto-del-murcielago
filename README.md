@@ -1,12 +1,13 @@
 # Proyecto del murciélago
 
-Este repositorio es para practicar el flujo de Github
+Este repositorio es para practicar el flujo de Github.
 
 Estoy aprendiendo:
 
 - GitHub
 - HTML
 - CSS
+- JavaScript
 
 ## Autor
 
